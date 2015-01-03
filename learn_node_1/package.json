@@ -1,0 +1,12 @@
+{
+  "name": "learnnode_e1",
+  "version": "0.0.3",
+  "description": "My node samples episode 1",
+  "main": "app.js",
+  "author": "Nikola",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "json-stringify-safe": "^5.0.0"
+  }
+}
