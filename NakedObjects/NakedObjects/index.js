@@ -1,0 +1,1 @@
+﻿require('./Module/Entity/Inherits.js');

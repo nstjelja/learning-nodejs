@@ -1,0 +1,14 @@
+{
+  "name": "naked_object",
+  "version": "0.0.0",
+  "description": "Implementation of the NakedObjects pattern",
+  "main": "index.js",
+  "author": {
+    "name": "Nikola Stjelja",
+    "email": "nstjelja@gmail.com"
+  },
+  "dependencies": {
+    "mocha": "^2.1.0",
+    "mocha2": "^1.4.1"
+  }
+}
