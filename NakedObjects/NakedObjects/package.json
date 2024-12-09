@@ -8,7 +8,7 @@
     "email": "nstjelja@gmail.com"
   },
   "dependencies": {
-    "mocha": "^2.1.0",
+    "mocha": "^11.0.1",
     "mocha2": "^1.4.1"
   }
 }
